@@ -1,0 +1,28 @@
+{
+  "name": "trie-search-js",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "author": "Mike Deboer",
+  "description": "My take on an efficient implementation of a Trie in Javascript",
+  "keywords": [
+    "trie",
+    "autocomplete",
+    "dictionary",
+    "type ahead"
+  ],
+  "homepage": "https://github.com/mikedeboer/trie",
+  "contibutors": [],
+  "dependencies": {},
+  "scripts": {
+    "start": "node trie.js"
+  },
+  "main": "trie.js",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/mikedeboer/trie.git"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
